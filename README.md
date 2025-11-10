@@ -18,6 +18,7 @@ I build responsive frontends and secure backends with high performance, security
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white)
 
 #### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
@@ -27,7 +28,7 @@ I build responsive frontends and secure backends with high performance, security
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?logo=mysql&logoColor=white)
-![Soon](https://img.shields.io/badge/Soon-FFA500?logo=ghost&logoColor=white)
+
 
 #### 🔧 Languages & Tools
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -63,7 +64,7 @@ I build responsive frontends and secure backends with high performance, security
 ### 🔗 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/waliu-idowu-50a594243/  
-- 📧 Email: *Add your email here if you'd like*
+- 📧 Email: waliuwaheed2021@gmail.com
 
 ---
 
