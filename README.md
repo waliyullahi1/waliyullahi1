@@ -21,9 +21,13 @@ I build responsive frontends and secure backends with high performance, security
 
 #### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
 
 #### 🗄️ Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?logo=mysql&logoColor=white)
+![Soon](https://img.shields.io/badge/Soon-FFA500?logo=ghost&logoColor=white)
 
 #### 🔧 Languages & Tools
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
